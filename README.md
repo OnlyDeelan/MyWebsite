@@ -9,7 +9,7 @@
    <h1>Turtles and stuff</h1>
    <p>Wanna see a picture of a baby turtle.</p>
 <img src="lilturtle.jpg">
-<a href="https://www.youtube.com/watch?v=T8eGw1oyYoQ">Another Turtle link for a video if you wanna watch</a>
+<p>If you want to watch a video on baby turtles click<a href="https://www.youtube.com/watch?v=T8eGw1oyYoQ">here,</a> you're welcome.</p>
 <link href="Style.css"rel="stylesheet"type="text/css"/>
 </body>
 
